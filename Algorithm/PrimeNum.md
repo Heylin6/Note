@@ -3,6 +3,7 @@
 ### 只能被 1 跟 自己整除 才是質數
 ### 所以被整除只有兩個數 就是質數
 
+
     public static ArrayList PrimeCount(int MaxNum)
     {    
         // i 為第一層
