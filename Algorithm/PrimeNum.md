@@ -38,6 +38,6 @@
         return res;
     }
 
-    #### 參考頁面 ####
+#### 參考頁面 ####
 
-    http://www.programmer-club.com.tw/ShowSameTitleN/java/18236.html
+http://www.programmer-club.com.tw/ShowSameTitleN/java/18236.html
