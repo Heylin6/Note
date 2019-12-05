@@ -29,7 +29,7 @@ JAVA - transient
     *當變數有 static 時 transient 會無效
 
 註 : 序列化(Serialize) -> 物件 Object 轉成串流 Stream
-    反序列化(Serialize) -> 串流 Stream 轉成物件 Object
+     反序列化(Serialize) -> 串流 Stream 轉成物件 Object
 
 foreach的原理
 

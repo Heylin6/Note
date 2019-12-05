@@ -46,6 +46,12 @@ ps.setInt(2, _Id);
 
 用正則表示式過濾字串
 
+(escape char, slash ...)
+
+
+
+
+
 
 
 #### 參考頁面 ####

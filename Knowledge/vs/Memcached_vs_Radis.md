@@ -11,15 +11,18 @@ Memcached
 7. 有利於減少記憶體頻繁分配銷燬的開銷
 8. 只有再次讀取相關資料時才檢查時間戳，或記憶體不夠用需要淘汰資料時進一步檢查LRU資料
 9. memcache還可用於快取其他東西，例如圖片、視訊等等。
-
+10. 使用情境 快取 工作階段存放區
 
 Redis
 
 1. 開源的key-value儲存系統
 2. 支援字串、雜湊表、連結串列、集合(資料型態複雜)
 3. 讀寫分離
+4. 使用情境 快取 聊天、簡訊和佇列 遊戲排行榜 工作階段存放區 豐富的媒體串流 地理位置資訊 機器學習 即時分析
+5. 支援備份
 
-
+*. Radis 運用 限流器 => 用來限制用戶每多久時間發出的請求次數
+*. Radis 運用 推播通知 
 
 #1 
 
@@ -55,4 +58,9 @@ Redis:
 
 
 https://codertw.com/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80/438692/
+
 https://www.ecloudture.com/aws-elasticache-redis-and-memcache/
+
+https://leicode.com/posts/9e983597/
+
+https://jigsawye.com/2015/12/22/push-notification-to-user-in-laravel-5/
