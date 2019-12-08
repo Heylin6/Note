@@ -12,6 +12,15 @@ HTTP 存取控制
 
 讓瀏覽器作為確認有經過驗證的
 
+*註 : JSONP 也是類似這方法
+
+### JSONP ###
+
+1. JSON with Padding
+2. JSONP抓到的資料並不是JSON，而是任意的JavaScript
+3. 用 JavaScript直譯器執行而不是用JSON解析器解析
+4. 容易被 CSRF
+
 ### CSRF ###
 
 跨站請求偉造 (Cross-site request forgery)
@@ -44,3 +53,11 @@ https://developer.mozilla.org/zh-TW/docs/Web/HTTP/CORS
 CSRF
 
 https://blog.techbridge.cc/2017/02/25/csrf-introduction/
+
+JSONP
+
+https://zh.wikipedia.org/wiki/JSONP
+
+https://kknews.cc/code/a42396g.html
+
+http://www.matools.com/lang-cht/blog/190426003

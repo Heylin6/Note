@@ -2,6 +2,8 @@
 #### Call By Value / Call By Reference
 ####
 
+註 : javascript 的 陣列 物件都是 Call By Reference
+
 傳值 傳址的差異舉例
 
 

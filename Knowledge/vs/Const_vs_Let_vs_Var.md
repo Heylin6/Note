@@ -1,5 +1,7 @@
 ### Const v.s. Let  v.s. Var ###
 
+var 
+
 var 作用在 function 裡
 
     (function(){
@@ -8,10 +10,18 @@ var 作用在 function 裡
 
     像上面這種
 
+let     
+
 let 作用在 block 裡  像這個 ----> {}
+
+const 
+
+不能被變換的常數
 
 
 === const vs let, var vs let ===
+
+用 let 不用 var 可以避免變成全域變數
 
 
 
