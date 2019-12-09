@@ -66,8 +66,10 @@ FileSystem
 
 
 
+#### 參考頁面 ####
+
 https://blog.techbridge.cc/2017/06/17/cache-introduction/
 
 https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching?hl=zh-TW
 
-https://notfalse.net/56/http-stale-response
+https://notfalse.net/56/http-stale-response 

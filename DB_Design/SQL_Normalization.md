@@ -32,3 +32,6 @@ DK正規化(Domain/Key Normal Form, DKNF)
 2. 符合 1NF 2NF
 
 範例看參考連結
+
+
+#### 參考頁面 ####

@@ -42,6 +42,9 @@ CSRF 攻擊之所以能成立，是因為使用者在被攻擊的網頁是處於
 Session/Cookie Token => [session_id + user_id] or [random_id + user_id], JWT
 
 
+
+#### 參考頁面 ####
+
 CORS
 
 https://blog.techbridge.cc/2017/05/20/api-ajax-cors-and-jsonp/

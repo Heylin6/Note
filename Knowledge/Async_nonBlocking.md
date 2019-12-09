@@ -32,6 +32,8 @@
 而導致停止不動(blocking)
 
 
+#### 參考頁面 ####
+
 Async
 
 https://medium.com/@hyWang/%E9%9D%9E%E5%90%8C%E6%AD%A5-asynchronous-%E8%88%87%E5%90%8C%E6%AD%A5-synchronous-%E7%9A%84%E5%B7%AE%E7%95%B0-c7f99b9a298a

@@ -18,6 +18,9 @@
 
 5. 查找快 但寫入就會慢
 6. 因為設定索引後資料處理的結構
+7. 建立索引時會創個空間存放排序邏輯
+
+#### 參考頁面 ####
 
 balence tree 原理
 https://kknews.cc/code/xje3rlq.html
