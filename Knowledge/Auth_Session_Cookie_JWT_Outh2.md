@@ -1,6 +1,6 @@
-### Session_vs_Cookie ###
+### Auth Session Cookie JWT Outh2 ###
 
-Cookie 
+*** Cookie ***
 
 1. 最常見用在表單填寫
 2. 如果網頁關掉重先前填的內容還在，靠的就是 cookie。
@@ -10,14 +10,14 @@ Cookie
 6. document.cookie = "key=value";
 5. 參數 : name 名稱(value) , expire 期限(date) , path 路徑(path) , domain 網域(domain) , secure 安全姓
 
-Session
+*** Session ***
 
 1. 記錄在 web server
 2. 身分認證後 -> 存下用戶資料 -> 產生id -> 存入 cookie -> 傳回用戶
 3. id 用 uuid
 4. 伺服器產生 cookie 時，都會加上 secret 來作 hash
 
-JWT
+*** JWT ***
 
 1. JSON Web Token
 2. header(BASE64)
@@ -30,7 +30,7 @@ JWT
 9. 只用 json => 所以可跨語言
 10. 不要放太敏感的訊息 如卡號 => 因為 BASE64 可逆推
 
-Oauth2
+*** Oauth2 ***
 
 1. OAuth 的下一版
 2. 但不相容 OAuth 1.0

@@ -1,6 +1,6 @@
 ### Babel ###
 
-Babel 
+*** Babel ***
 
 一個常用來使用最新的 JavaScript 語言特性工具。
 是轉譯器,也是編譯器

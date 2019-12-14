@@ -1,6 +1,6 @@
 ### Memcached v.s. Radis ###
 
-Memcached
+*** Memcached ***
 
 1. 一個記憶體key-value資料庫
 2. 不支援資料的持久化
@@ -13,7 +13,7 @@ Memcached
 9. memcache還可用於快取其他東西，例如圖片、視訊等等。
 10. 使用情境 快取 工作階段存放區
 
-Redis
+*** Redis ***
 
 1. 開源的key-value儲存系統
 2. 支援字串、雜湊表、連結串列、集合(資料型態複雜)
@@ -55,7 +55,7 @@ Redis:
 
 
 
-
+#### 參考頁面 ####
 
 https://codertw.com/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80/438692/
 
