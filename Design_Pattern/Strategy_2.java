@@ -80,3 +80,9 @@ public class PriceCalculator{
         return strategy.calculate(km);
     }
 }
+
+
+
+//延伸 : 飲料減價 折價
+//
+//https://ithelp.ithome.com.tw/articles/10203503
