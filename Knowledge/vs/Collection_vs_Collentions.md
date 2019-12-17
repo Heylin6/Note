@@ -7,7 +7,7 @@
 
 *** CollectionS ***
 
-1. 一個工具 , 裡面含有許多 method
+1. 一個工具類別(class) , 裡面含有許多 method
 2. 例如 add() , sort() 那些
 
 

@@ -10,6 +10,10 @@ var 作用在 function 裡
 
     像上面這種
 
+當出現 undefined 時
+
+表示記憶體已有準備空間
+
 *** let ***     
 
 let 作用在 block 裡  像這個 ----> {}
@@ -22,6 +26,8 @@ let 作用在 block 裡  像這個 ----> {}
 *** const vs let, var vs let *** 
 
 用 let 不用 var 可以避免變成全域變數
+
+{} 內的變數並不會影響到外部變數
 
 
 #### 參考頁面 ####
