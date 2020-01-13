@@ -1,0 +1,6 @@
+
+[AllowAnonymous]
+
+[Authorize]
+
+[ValidateInput(false)]
