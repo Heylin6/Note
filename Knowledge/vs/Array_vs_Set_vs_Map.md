@@ -13,22 +13,35 @@
 List
 
 1. 繼承 collection 的介面
+2. 重複值(O)
+3. 可重複null
+4. 有順序
+
 
 Set
 
 1. 繼承 collection 的介面
+2. 重複值(X)
+3. 只能有一個null
+4. 沒有順序
+5. 查找速度快
 
 Map
 
 1. 不是 繼承 collection 的介面
+2. Key重複值(O),Value重複值(X)
+3. Key只能有1個null,Value幾個null都沒關係
+
 
 *** Array & ArrayList ***
 
 1. Array 大小需固定 , ArrayList 可以動態
 2. ArrayList 可以使用較多 method
 
-ArrayList、LinkedList、Hashtable、HashMap、ConcurrentHashMap、HashSet 實現原理
+ArrayList、LinkedList、Hashtable、HashMap、ConcurrentHashMap、HashSet 實現原理待補
 
 #### 參考頁面 ####
 
 https://www.itread01.com/p/866063.html
+https://jax-work-archive.blogspot.com/2015/02/java-setlistmap.html
+https://www.itread01.com/content/1517808043.html
