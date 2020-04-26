@@ -6,7 +6,7 @@
 | --- | --- | --- | --- | --- | --- |
 | List  | Collection  | O | 可多個 | 有 | ArrayLIst(查找),Linkedlist(增刪) |
 | Set  | Collection  | X | 只可一個 | 無 | HashSet(查找),TreeSet(保存次序) |
-| Map  | Map  | key只能一個,walue隨意 | key只能一個,walue幾個隨意 | HashMap,HashTable |
+| Map  | Map  | key只能一個,\nvalue隨意 | key只能一個,\nvalue幾個隨意 | HashMap,HashTable |
 
 ==================================
 
