@@ -37,7 +37,6 @@ Dependency Injection 依賴注入
             IS_CAT -> fami = Cat()
             IS_MONKEY -> fami = Monkey()
             IS_GODZILLA -> fami = Godzilla()
-
         }
     }
     那法米有可能是狗、是貓、是猴、也有可能是哥吉拉，
