@@ -1,5 +1,12 @@
 ### Extends v.s. Impletments ###
 
+|   | 主要繼承 | 繼承數量 | 說明 | 注意事項 |
+| --- | --- | --- | --- | --- |
+| Extends  | 大多用在<br/>Class | 只能繼承一個 Class | 繼承之後<br/>可以使用父類的方法 | 只要類不是 final 或 abstract<br/>就能繼承 |
+| Impletments  | 大多用在<br/>Interface | 可以繼承多個 介面 | 介面的方法一般為空的<br/>必須重寫才能使用 | |
+
+============================
+
 *** Extends ***
 
 1. 大多用在繼承 class

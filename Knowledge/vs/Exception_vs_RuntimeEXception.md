@@ -1,5 +1,15 @@
 ### Exception v.s. RuntimeEXception ###
 
+|   | 比較 |
+| --- | --- |
+| Exception  | 檢查型異常<br/>刻意TryCatch時發現錯誤跳出 |
+| RuntimeException  | 非檢查型異常<br/>跑的時候突然就炸開了 |
+
+
+============================
+
+
+
 簡單來說 :
 
 非 RuntimeException 要自己寫 catch 處理掉
