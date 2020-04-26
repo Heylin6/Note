@@ -2,11 +2,11 @@
 ###
 ###
 
-|   | 隸屬於 |
-| ------------- | ------------- |
-| List  | Collection  |
-| Map  | Collection  |
-| Map  | Map  |
+|   | 隸屬於 | 可null | | | | | | | | |
+
+| List  | Collection  | 可多個 | | | | | | | | |
+| Set  | Collection  | 只可一個 | | | | | | | | |
+| Map  | Map  | key只能一個,walue幾個隨意 | | | | | | | | |
 
 ==================================
 
