@@ -38,6 +38,11 @@ Spring Test
 
 === SpringSecurity
 
+1. 用來身分驗證
+2. 可以跟 Spring MVC 良好整合
+3. 確保使用者僅可存取允許的資源。
+        ex.Spring Security提供幾種授權的層級，有http請求、http方法、物件等.
+
 
 #### 參考頁面 ####
 
