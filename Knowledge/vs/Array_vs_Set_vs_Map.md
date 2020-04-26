@@ -4,9 +4,9 @@
 
 |   | 隸屬於 | 可重複值 | 可null | 順序 | 常見的 |
 | --- | --- | --- | --- | --- | --- |
-| List  | Collection  | O | 可多個 | 有 | ArrayLIst(查找),Linkedlist(增刪) |
-| Set  | Collection  | X | 只可一個 | 無 | HashSet(查找),TreeSet(保存次序) |
-| Map  | Map  | key只能一個,\nvalue隨意 | key只能一個,\nvalue幾個隨意 | HashMap,HashTable |
+| List  | Collection  | O | 可多個 | 有 | ArrayLIst(查找)<br/>Linkedlist(增刪) |
+| Set  | Collection  | X | 只可一個 | 無 | HashSet(查找)<br/>TreeSet(保存次序) |
+| Map  | Map  | key只能一個,<br/>value隨意 | key只能一個,<br/>value幾個隨意 | HashMap<br/>HashTable |
 
 ==================================
 
