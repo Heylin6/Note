@@ -1,5 +1,12 @@
 ### Collection v.s. Collentions ###
 
+|   | 介紹 | 備註 |
+| --- | --- | --- |
+| Collection  | 一種介面集合 | | 
+| Collections  | 一個工具類別(Class) |  裡面含有許多 method<br/>例如 add(),sort() | 
+
+============================
+
 *** Collection ***
 
 1. 一種介面集合
