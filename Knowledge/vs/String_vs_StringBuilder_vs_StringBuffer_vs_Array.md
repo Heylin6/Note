@@ -1,5 +1,13 @@
 ### String v.s. StringBuilder v.s. StringBuffer v.s. Array ###
 
+|   | 資料量 | 線程 |
+| --- | --- | --- |
+| String  | 小 | 單線程 |
+| StringBuilder  | 大 | 單線程 |
+| StringBuffer  | 大 | 多線程 |
+
+============================
+
 *** String v.s. StringBuilder v.s. StringBuffer ***
 
 小量資料 用 String

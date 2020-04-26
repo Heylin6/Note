@@ -16,6 +16,7 @@
 
 *** finalize ***
 
+    用在 GC 上
     java.lang.Object 上的一個 method
     保證物件在被 GC(Garbage Collection,一種記憶體管理機制,處理記憶體的垃圾) 
     前能被回收
