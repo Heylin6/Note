@@ -2,11 +2,11 @@
 ###
 ###
 
-|   | 隸屬於 | 可null |
-| --- | --- | --- |
-| List  | Collection  | 可多個 |
-| Set  | Collection  | 只可一個 |
-| Map  | Map  | key只能一個,walue幾個隨意 |
+|   | 隸屬於 | 可重複值 | 可null | 順序 | 常見的 |
+| --- | --- | --- | --- | --- | --- |
+| List  | Collection  | O | 可多個 | 有 | ArrayLIst(查找),Linkedlist(增刪) |
+| Set  | Collection  | X | 只可一個 | 無 | HashSet(查找),TreeSet(保存次序) |
+| Map  | Map  | key只能一個,walue隨意 | key只能一個,walue幾個隨意 | HashMap,HashTable |
 
 ==================================
 
