@@ -1,6 +1,14 @@
 
 ### Spring框架的差別 ###
 
+=== 前言
+
+Spring Boot和Spring、Spring MVC不是競爭關係，
+Spring Boot使我們更加容易使用Spring和Spring MVC
+
+詳見
+https://kknews.cc/zh-tw/code/9z8paml.html
+
 === Spring
 
 以下為他的宗親
@@ -23,6 +31,8 @@ Spring Test
 3. Servlet 為基底
 4. 增加业务代码，如controller，service，model等，最后生成 war 包，通过容器进行启动
 5. Dispatcher Servlet, ModelAndView 和 View Resolve
+6. 需要配置組件掃描，調度器servlet，視圖解析器
+
 
 === SpringBoot
 
@@ -47,3 +57,5 @@ Spring Test
 #### 參考頁面 ####
 
 https://www.jianshu.com/p/42620a0a2c33
+
+https://kknews.cc/zh-tw/code/9z8paml.html

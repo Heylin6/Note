@@ -84,16 +84,51 @@ type III IoC
 
 Java
 
-@Autowired
+@Component 是所有受Spring 管理組件的通用形式，但是不推薦使用
+@Repository 對應 數據訪問層(DAO層) 的Bean 
+@Service 對應業務層的Bean
+@Controller 對應 控制層 的Bean
+
+@Resource 
+默認按名稱來裝配注入，
+只有當找不到與名稱相匹配的bean時才會按照類型來裝配注入
+
+@Autowired 
+默認按類型來裝配注入，
+如果想按照名稱來裝配注入，則需要結合@Qualifier一起使用
+
+@Qualifier 
+默認按名稱來裝配注入
 
 @RequestMapping("add")
 
 
+================================
+
+備註 : 
+
+DAO(Data Access Objects) 數據訪問層
+
+主要進行數據操作的
+配著相對的 ORM 對 DB 丟東西要東西
+
 
 #### 參考頁面 ####
+
+https://blog.csdn.net/lyt_7cs1dn9/article/details/50965815
+
+https://blog.51cto.com/983836259/1835371
 
 https://medium.com/jastzeonic/inversion-of-control-ioc-%E7%9A%84%E9%82%A3%E4%B8%80%E5%85%A9%E5%80%8B%E5%BF%83%E5%BE%97-d2324cb8b5f1
 
 https://openhome.cc/Gossip/SpringGossip/DI.html
 
 http://www.codedata.com.tw/java/java-tutorial-the-4th-class-2-spring-dependency-injection/
+
+http://tw.gitbook.net/spring/spring_dependency_injection.html
+
+===
+
+DAO
+
+https://blog.csdn.net/helloxiaozhe/article/details/80916494
