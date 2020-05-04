@@ -64,3 +64,5 @@ public class IterativeDynamicProgramming {
 #### 參考頁面 ####
 
 https://emn178.pixnet.net/blog/post/91987861
+
+https://www.facebook.com/groups/836704183194912/permalink/1015968675268461/

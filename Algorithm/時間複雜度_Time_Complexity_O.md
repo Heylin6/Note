@@ -177,3 +177,7 @@ https://medium.com/appworks-school/%E5%88%9D%E5%AD%B8%E8%80%85%E5%AD%B8%E6%BC%94
 費氏數列
 
 https://medium.com/appworks-school/%E5%88%9D%E5%AD%B8%E8%80%85%E5%AD%B8%E6%BC%94%E7%AE%97%E6%B3%95-%E5%BE%9E%E8%B2%BB%E6%B0%8F%E6%95%B8%E5%88%97%E8%AA%8D%E8%AD%98%E4%BD%95%E8%AC%82%E9%81%9E%E8%BF%B4-dea15d2808a3
+
+統合包
+
+https://blog.techbridge.cc/2017/08/19/sotring-algorithm/?fbclid=IwAR0tzQKM-Ll_SV-Y6gNuuyrC4Mk-aBOLRYZHiuY72SANl14SW3KdGZFpV0o

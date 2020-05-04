@@ -34,3 +34,7 @@ interface Demo {
 https://jjnnykimo.pixnet.net/blog/post/21585257
 
 https://coffee0127.github.io/blog/2016/09/10/abstract-class-vs-interface/
+
+https://www.javaworld.com.tw/jute/post/view?bid=29&id=195263&fbclid=IwAR32NlhiCQyrMODWb5zpMB_ndo7YU95nophF5AosmYb7I47MxGxV7YjMiEg
+
+https://www.mobile01.com/topicdetail.php?f=37&t=1839533&fbclid=IwAR0xqYNxy4HJzWLvmCrCvT41EQv2rGWf9DuCH23bxROvWyuoKEO66xYp1t0
