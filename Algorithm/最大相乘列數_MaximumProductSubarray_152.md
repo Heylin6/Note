@@ -13,14 +13,15 @@ EX: [-7, 3, 0, 2, 5, 4, -6]  ,則 Max值 2 * 5 * 4 為 40
 解題架構
 
 1. 建立最大值imax 最小值imin (初始值1) ANS
-2. 跑 for 迴圈 相乘數 跟 原數 比 最大最小值
+2. 跑 for 迴圈 
+2-1. imax* 第index個數 跟 第index個數 比 最大值
+2-2. imin* 第index個數 跟 第index個數 比 最小值
 3. 注意 如果是 負數相乘 最大數會變最小 最小數會變最大(反轉)
 4. 比完後imax 跟 ANS 比最大 放入 ANS
 
 ===========
 
 最佳解 O(n)
-
 
 public int maxProduct(int[] nums) {
 
@@ -42,7 +43,11 @@ public int maxProduct(int[] nums) {
 
             ANS = Math.max(max, imax);
         }
-        return max;
+        return ANS;
 }
 
+===========
 
+#### 參考頁面 ####
+
+https://ithelp.ithome.com.tw/articles/10160439
