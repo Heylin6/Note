@@ -58,6 +58,9 @@ ex.
 SELECT Description, DiscountPct, MinQty, ISNULL(MaxQty, 0.00) AS 'Max Quantity'  
 FROM Sales.SpecialOffer;  
 
+=== COALESCE ===
+
+https://docs.microsoft.com/zh-tw/sql/t-sql/language-elements/coalesce-transact-sql?view=sql-server-ver15
 
 === count ===
 
